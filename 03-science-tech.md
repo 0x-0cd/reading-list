@@ -357,3 +357,22 @@
 - **《计算机网络——自顶向下方法》** — (美) James Kurose(美) Keith Ross · 网络 / 分布式 · （综述）
 - **《计算机网络》** — (美) Andrew Tanenbaum(美) David Wetherall · 网络 / 分布式 · （综述）
 - **《费曼物理学讲义》** — (美) 理查德·费曼 · 物理学 · （综述）
+
+
+### 科普通识
+- **《人体简史（The Body: A Guide for Occupants）》** — [美] 比尔·布莱森 · 科普通识
+- **《基因传》** — （美）悉达多·穆克吉 · 科普通识
+
+
+### 编程 / 软件工程
+- **《Azure for Architects (second edition)》** — · 编程 / 软件工程
+- **《C how to program with an introduction to C++ (eighth edition)》** — Paul Deitel · 编程 / 软件工程
+- **《C programming Absolute Beginner's Guide (3rd edition)》** — Greg Perry, Dean Miller · 编程 / 软件工程
+- **《Hackers: Heroes of the Computer Revolution》** — Steven Levy · 编程 / 软件工程
+- **《Implementing SSH: Strategies for Optimizing the Secure Shell》** — Himanshu Dwivedi · 编程 / 软件工程
+- **《Learning the bash Shell, 3rd Edition》** — Cameron Newham · 编程 / 软件工程
+- **《Linux: a Portable Operating System》** — Linus Torvalds · 编程 / 软件工程
+- **《Mastering Bash: A Step-by-Step Guide to working with Bash Programming and Shell Scripting》** — Giorgio Zarrelli · 编程 / 软件工程
+- **《Modern JavaScript: Develop and Design》** — Larry Ullman · 编程 / 软件工程
+- **《Ssh, The Secure Shell: The Definitive Guide Second Edition》** — Richard E. Silverman · 编程 / 软件工程
+- **《数据可视化实战：使用D3设计交互式图表（《Interactive Data Visualization for the Web》的中文版）》** — · 编程 / 软件工程
